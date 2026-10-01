@@ -12,7 +12,7 @@ export const STORE_CONFIG = {
    * Use formato internacional, apenas números: 55 + DDD + número.
    * Exemplo: 5511999999999
    */
-  whatsappNumber: "5511984509928",
+  whatsappNumber: "5511957202783",
   shippingFee: 35,
   email: "contato@allianceimports.com.br",
   instagram: "@allianceimports",
